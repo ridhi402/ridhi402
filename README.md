@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=700&color=BF5FFF&center=true&vCenter=true&width=560&lines=loading+skills...+%5BDONE%5D;executing+data_analysis.py...;training+ml_model...+%5BACC%3A+improving%5D;organising+hackathon...+%5BDONE%5D)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ridhi402&label=PROFILE+VIEWS&color=BF5FFF&style=for-the-badge&labelColor=1A0026)](https://github.com/ridhi402)
+[![Portfolio](https://img.shields.io/badge/💜_Portfolio-Visit_Site-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://ridhi-portfolio-phi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2D78?style=for-the-badge&logo=linkedin&logoColor=1A0026&labelColor=1A0026)](https://linkedin.com/in/ridhikumari516)
 
 </div>
