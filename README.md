@@ -1,13 +1,13 @@
 <div align="center">
  
-[![Header](https://capsule-render.vercel.app/api?type=rect&color=050005,1A0026,2D0050&height=190&section=header&text=RIDHI_KUMARI.exe&fontColor=FFE4FF&fontSize=38&fontAlignY=48&fontAlign=50&desc=%5B+AI_ML_STUDENT+%7C+DATA_SCIENCE+%7C+COMMUNITY_BUILDER+%5D&descColor=FF79C6&descAlignY=68&descSize=14)](https://github.com/ridhi402)
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=050005,0D0D1A,2D0050&height=190&section=header&text=RIDHI_KUMARI.exe&fontColor=EDE9FE&fontSize=38&fontAlignY=48&fontAlign=50&desc=%5B+AI_ML_STUDENT+%7C+DATA_SCIENCE+%7C+COMMUNITY_BUILDER+%5D&descColor=C4B5FD&descAlignY=68&descSize=14)](https://github.com/ridhi402)
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=700&color=BF5FFF&center=true&vCenter=true&width=560&lines=loading+skills...+%5BDONE%5D;executing+data_analysis.py...;training+ml_model...+%5BACC%3A+improving%5D;organising+hackathon...+%5BDONE%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=560&lines=loading+skills...+%5BDONE%5D;executing+data_analysis.py...;training+ml_model...+%5BACC%3A+improving%5D;organising+hackathon...+%5BDONE%5D)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ridhi402&label=PROFILE+VIEWS&color=BF5FFF&style=for-the-badge&labelColor=1A0026)](https://github.com/ridhi402)
-[![Portfolio](https://img.shields.io/badge/💜_Portfolio-Visit_Site-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://ridhi-portfolio-phi.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2D78?style=for-the-badge&logo=linkedin&logoColor=1A0026&labelColor=1A0026)](https://linkedin.com/in/ridhikumari516)
-[![Kaggle](https://img.shields.io/badge/Kaggle-FF79C6?style=for-the-badge&logo=kaggle&logoColor=1A0026&labelColor=1A0026)](https://www.kaggle.com/ridhiik)
+[![Profile Views](https://komarev.com/ghpvc/?username=ridhi402&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge&labelColor=0D0D1A)](https://github.com/ridhi402)
+[![Portfolio](https://img.shields.io/badge/💜_Portfolio-Visit_Site-A78BFA?style=for-the-badge&labelColor=0D0D1A)](https://ridhi-portfolio-phi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-60A5FA?style=for-the-badge&logo=linkedin&logoColor=0D0D1A&labelColor=0D0D1A)](https://linkedin.com/in/ridhikumari516)
+[![Kaggle](https://img.shields.io/badge/Kaggle-C4B5FD?style=for-the-badge&logo=kaggle&logoColor=0D0D1A&labelColor=0D0D1A)](https://www.kaggle.com/ridhiik)
 
 </div>
 
@@ -32,26 +32,26 @@
 
 ### 🟣 Languages
  
-![Python](https://img.shields.io/badge/Python-BF5FFF?style=for-the-badge&logo=python&logoColor=FFE4FF&labelColor=1A0026)
-![C](https://img.shields.io/badge/C-BF5FFF?style=for-the-badge&logo=c&logoColor=FFE4FF&labelColor=1A0026)
-![HTML5](https://img.shields.io/badge/HTML5-BF5FFF?style=for-the-badge&logo=html5&logoColor=FFE4FF&labelColor=1A0026)
-![CSS3](https://img.shields.io/badge/CSS3-BF5FFF?style=for-the-badge&logo=css3&logoColor=FFE4FF&labelColor=1A0026)
+![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=EDE9FE&labelColor=0D0D1A)
+![C](https://img.shields.io/badge/C-A78BFA?style=for-the-badge&logo=c&logoColor=EDE9FE&labelColor=0D0D1A)
+![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=for-the-badge&logo=html5&logoColor=EDE9FE&labelColor=0D0D1A)
+![CSS3](https://img.shields.io/badge/CSS3-A78BFA?style=for-the-badge&logo=css3&logoColor=EDE9FE&labelColor=0D0D1A)
 
 ### 🟣 Data & ML
  
-![NumPy](https://img.shields.io/badge/NumPy-FF79C6?style=for-the-badge&logo=numpy&logoColor=FFE4FF&labelColor=1A0026)
-![pandas](https://img.shields.io/badge/pandas-FF79C6?style=for-the-badge&logo=pandas&logoColor=FFE4FF&labelColor=1A0026)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FF79C6?style=for-the-badge&logo=matplotlib&logoColor=FFE4FF&labelColor=1A0026)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-FF79C6?style=for-the-badge&logo=scikit-learn&logoColor=FFE4FF&labelColor=1A0026)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF79C6?style=for-the-badge&logo=jupyter&logoColor=FFE4FF&labelColor=1A0026)
-![Kaggle](https://img.shields.io/badge/Kaggle-FF79C6?style=for-the-badge&logo=kaggle&logoColor=FFE4FF&labelColor=1A0026)
+![NumPy](https://img.shields.io/badge/NumPy-C4B5FD?style=for-the-badge&logo=numpy&logoColor=EDE9FE&labelColor=0D0D1A)
+![pandas](https://img.shields.io/badge/pandas-C4B5FD?style=for-the-badge&logo=pandas&logoColor=EDE9FE&labelColor=0D0D1A)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-C4B5FD?style=for-the-badge&logo=matplotlib&logoColor=EDE9FE&labelColor=0D0D1A)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-C4B5FD?style=for-the-badge&logo=scikit-learn&logoColor=EDE9FE&labelColor=0D0D1A)
+![Jupyter](https://img.shields.io/badge/Jupyter-C4B5FD?style=for-the-badge&logo=jupyter&logoColor=EDE9FE&labelColor=0D0D1A)
+![Kaggle](https://img.shields.io/badge/Kaggle-C4B5FD?style=for-the-badge&logo=kaggle&logoColor=EDE9FE&labelColor=0D0D1A)
 
 ### 🟣 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-FF2D78?style=for-the-badge&logo=git&logoColor=FFE4FF&labelColor=1A0026)
-![GitHub](https://img.shields.io/badge/GitHub-FF2D78?style=for-the-badge&logo=github&logoColor=FFE4FF&labelColor=1A0026)
-![VS Code](https://img.shields.io/badge/VS_Code-FF79C6?style=for-the-badge&logo=visual-studio-code&logoColor=FFE4FF&labelColor=1A0026)
-![Google Colab](https://img.shields.io/badge/Google_Colab-FF2D78?style=for-the-badge&logo=google-colab&logoColor=FFE4FF&labelColor=1A0026)
+![Git](https://img.shields.io/badge/Git-60A5FA?style=for-the-badge&logo=git&logoColor=EDE9FE&labelColor=0D0D1A)
+![GitHub](https://img.shields.io/badge/GitHub-60A5FA?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0D0D1A)
+![VS Code](https://img.shields.io/badge/VS_Code-C4B5FD?style=for-the-badge&logo=visual-studio-code&logoColor=EDE9FE&labelColor=0D0D1A)
+![Google Colab](https://img.shields.io/badge/Google_Colab-60A5FA?style=for-the-badge&logo=google-colab&logoColor=EDE9FE&labelColor=0D0D1A)
 
 </div>
 
