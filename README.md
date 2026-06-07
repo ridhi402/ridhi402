@@ -7,6 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ridhi402&label=PROFILE+VIEWS&color=BF5FFF&style=for-the-badge&labelColor=1A0026)](https://github.com/ridhi402)
 [![Portfolio](https://img.shields.io/badge/💜_Portfolio-Visit_Site-BF5FFF?style=for-the-badge&labelColor=1A0026)](https://ridhi-portfolio-phi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2D78?style=for-the-badge&logo=linkedin&logoColor=1A0026&labelColor=1A0026)](https://linkedin.com/in/ridhikumari516)
+[![Kaggle](https://img.shields.io/badge/Kaggle-FF79C6?style=for-the-badge&logo=kaggle&logoColor=1A0026&labelColor=1A0026)](https://www.kaggle.com/ridhiik)
 
 </div>
 
